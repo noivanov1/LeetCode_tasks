@@ -4,7 +4,6 @@
 # Memory Usage: 15.4 MB, less than 97.17% of Python3 online submissions for Majority Element.
 
 
-
 from typing import List
 
 
