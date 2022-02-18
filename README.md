@@ -5,6 +5,6 @@ Run *.py via
 python3 ****.py
 ```
 
-specyfied the name.
+specifying the name.
 
 Except tasks 190 and 191.
