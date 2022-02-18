@@ -2,7 +2,8 @@
 
 Run *.py via
 ```console
-python3 ****.py```
+python3 ****.py
+```
 
 specyfied the name.
 
