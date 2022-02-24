@@ -3,6 +3,7 @@
 # Runtime: 1930 ms, faster than 5.01% of Python3 online submissions for Valid Anagram.
 # Memory Usage: 15 MB, less than 20.45% of Python3 online submissions for Valid Anagram.
 
+
 def isAnagram(s: str, t: str) -> bool:
     new_t = [item for item in t]
     for i in s:
