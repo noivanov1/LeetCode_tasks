@@ -16,3 +16,4 @@ def maxSubArray(nums: List[int]) -> int:
 
 
 nums = [-2,1,-3,4,-1,2,1,-5,4]
+print(maxSubArray(nums))
