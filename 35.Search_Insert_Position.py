@@ -13,3 +13,7 @@ def searchInsert(nums: List[int], target: int) -> int:
                 return i
         return len(nums)
     return nums.index(target)
+
+nums = [1,3,4,5]
+target = 2
+print(searchInsert(nums, target))
