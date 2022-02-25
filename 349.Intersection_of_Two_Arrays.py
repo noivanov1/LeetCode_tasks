@@ -6,7 +6,7 @@
 from typing import List
 
 
-def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
+def intersection(nums1: List[int], nums2: List[int]) -> List[int]:
     res = []
     nums1 = set(nums1)
     nums2 = set(nums2)
