@@ -23,3 +23,7 @@ def convertToBase7(num: int) -> str:
         b = str(num % 7) + b
         num = num // 7
     return sign + b
+
+
+num = 10
+print(convertToBase7(num))
