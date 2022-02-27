@@ -3,7 +3,7 @@
 # Runtime: 41 ms, faster than 54.67% of Python3 online submissions for Reverse Bits.
 # Memory Usage: 13.9 MB, less than 69.54% of Python3 online submissions for Reverse Bits.
 
-def reverseBits(self, n: int) -> int:
+def reverseBits(n: int) -> int:
     if len(str(n)) != 32:
         str_n = format(n, "b")
     else:
