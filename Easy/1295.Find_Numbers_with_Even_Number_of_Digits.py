@@ -4,8 +4,7 @@
 # Memory Usage: 13.9 MB, less than 90.06% of Python3 online submissions for Find Numbers with Even Number of Digits.
 #
 # Test:
-# if num = 0
-# return '0'
+
 
 # if nums = [555,901,482,1771]
 # return 1
